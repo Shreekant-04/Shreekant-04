@@ -24,7 +24,7 @@
   
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shreekant-04&show_icons=true&locale=en&theme=dark&border_radius=20" alt="shreekant-04" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shreekant-04&show_icons=true&locale=en&theme=dark&border_radius=20&card_height=195" alt="shreekant-04" />
 
 </p>
 
@@ -35,7 +35,7 @@
 
 </p>
 <p align="center">&nbsp;
-  <a  href="https://git.io/streak-stats" margin="10px"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shreekant-04%20&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <a  href="https://git.io/streak-stats" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Shreekant-04%20&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 </p>
 
