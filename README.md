@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@shreekant04)
 
-- 📫 How to reach me **shree.kant.74.sk@gmail.com**
+- 📫 How to reach me **shreekant4062@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,9 +33,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/></a> 
 </p>
-
+<h3 align="left">Stats:</h3>
+<p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shreekant-04&show_icons=true&locale=en&theme=dark&border_radius=20&" alt="shreekant-04" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekant-04&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=20&" alt="shreekant-04" />
 </p>
-
-
+</p>
