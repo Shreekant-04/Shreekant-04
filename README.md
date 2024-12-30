@@ -8,6 +8,8 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@shreekant04)
 
 - 📫 How to reach me **shreekant4062@gmail.com**
+  
+- 🏁 Checkout [Quotes-Api](https://rapidapi.com/shreekant74sk/api/quotes-api12)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
