@@ -41,3 +41,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekant-04&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=20&" alt="shreekant-04" />
 </p>
 </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekant-04&show_icons=true&locale=en&layout=compact" alt="shreekant-04" /></p>
+
