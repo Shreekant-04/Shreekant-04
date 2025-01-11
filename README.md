@@ -42,8 +42,8 @@
 
 <h3 align="left">Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreekant-04&show_icons=true&locale=en&theme=dark&border_radius=20" alt="shreekant-04 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekant-04&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=20" alt="shreekant-04 top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreekant-04&show_icons=true&locale=en&theme=dark&border_radius=10" alt="shreekant-04 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekant-04&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=10" alt="shreekant-04 top languages" />
 </div>
 
 ---
