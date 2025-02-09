@@ -56,11 +56,14 @@ GET /type
 **Response:**
 ```json
 {
-  "length": 3,
-  "types": ["success",
-            "inspirational", 
-            "self-confidence"
-    ]
+  "length": 5,
+  "types": [
+    "happiness",
+    "inspirational",
+    "love",
+    "self-confidence",
+    "success"
+  ]
 }
 ```
 
@@ -72,16 +75,21 @@ Retrieve a list of all authors along with their quote count.
 **Endpoint:**
 ```
 GET /author
+GET /author?page=3&limit=2
 ```
 **Response:**
 ```json
 {
-  "length": 3,
-  "authors": [
-    "Unknown", 
-   "Brian Tracy", 
-   "Winston Churchill"
-  ]
+  "data": [
+    "Abraham Lincoln",
+    "Aeschylus"
+  ],
+  "totalItems": 192,
+  "totalPages": 96,
+  "currentPage": 1,
+  "pageSize": 2,
+  "nextPageUrl": "?page=2&limit=2",
+  "prevPageUrl": null
 }
 ```
 
@@ -115,6 +123,7 @@ Retrieve all quotes from a specific author.
 **Endpoint:**
 ```
 GET /quotes/author/{author_name}
+GET /quotes/author/steve%20jobs?page=2&limit=2
 ```
 **Example:**
 ```
@@ -123,15 +132,24 @@ GET /quotes/author/Steve%20Jobs
 **Response:**
 ```json
 {
-  "length": 2,
-  "quotes": [
-    {"quote": "Innovation distinguishes between a leader and a follower.", 
-     "author": "Steve Jobs"
+  "data": [
+    {
+      "quote": "If you really look closely, most overnight successes took a long time.",
+      "author": "Steve Jobs",
+      "type": "success"
     },
-    {"quote": "Your time is limited, don’t waste it living someone else’s life.",
-     "author": "Steve Jobs"
+    {
+      "quote": "If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you.",
+      "author": "Steve Jobs",
+      "type": "inspirational"
     }
-  ]
+  ],
+  "totalItems": 18,
+  "totalPages": 9,
+  "currentPage": 1,
+  "pageSize": 2,
+  "nextPageUrl": "?page=2&limit=2",
+  "prevPageUrl": null
 }
 ```
 
