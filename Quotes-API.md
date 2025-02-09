@@ -38,8 +38,7 @@ GET /quotes
 **Response:**
 ```json
 {
-  "quote": "Success is about doing what you love and 
-            being happy doing it.",
+  "quote": "Success is about doing what you love and being happy doing it.",
   "author": "Unknown",
   "type": "success"
 }
@@ -126,12 +125,10 @@ GET /quotes/author/Steve%20Jobs
 {
   "length": 2,
   "quotes": [
-    {"quote": "Innovation distinguishes between
-               a leader and a follower.", 
+    {"quote": "Innovation distinguishes between a leader and a follower.", 
      "author": "Steve Jobs"
     },
-    {"quote": "Your time is limited, don’t waste it
-               living someone else’s life.",
+    {"quote": "Your time is limited, don’t waste it living someone else’s life.",
      "author": "Steve Jobs"
     }
   ]
