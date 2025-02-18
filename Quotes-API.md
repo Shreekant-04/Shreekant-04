@@ -152,7 +152,85 @@ GET /quotes/author/Steve%20Jobs
   "prevPageUrl": null
 }
 ```
+### **6. Fetch Random Anime Quote**
+Retrieve a random anime quote from the database.
 
+**Endpoint:**
+```
+GET /quotes/anime
+```
+**Response:**
+```json
+{
+  "quote": "A lesson learned without pain is meaningless. That’s because you can’t gain something without sacrificing something in return.",
+  "author": "Edward Elric"
+}
+
+```
+
+---
+
+### **7. Fetch All Anime Authors**
+Retrieve a list of all anime authors and characters.
+
+**Endpoint:**
+```
+GET /author/anime
+GET /author/anime?page=2&limit=2
+```
+**Response:**
+```json
+{
+  "data": [
+    "Akame",
+    "Armin Arlert"
+  ],
+  "totalItems": 44,
+  "totalPages": 22,
+  "currentPage": 1,
+  "pageSize": 2,
+  "nextPageUrl": "?page=2&limit=2",
+  "prevPageUrl": null
+}
+
+```
+
+---
+
+### **8. Fetch Anime Quotes by Author**
+Retrieve all quotes from a specific anime author or character.
+
+**Endpoint:**
+```
+GET /quotes/author/anime/{authorName}
+GET /quotes/author/anime/{authorName}?page=1&limit=2
+```
+**Example:**
+```
+GET /anime/quotes/author/goku?page=1&limit=2
+```
+**Response:**
+```json
+{
+  "data": [
+    {
+      "quote": "Power comes in response to a need, not a desire. You have to create that need.",
+      "author": "Goku"
+    },
+    {
+      "quote": "I am the hope of the universe. I am the answer to all living things that cry out for peace.",
+      "author": "Goku"
+    }
+  ],
+  "totalItems": 14,
+  "totalPages": 7,
+  "currentPage": 1,
+  "pageSize": 2,
+  "nextPageUrl": "?page=2&limit=2",
+  "prevPageUrl": null
+}
+
+```
 ---
 
 ## **Rate Limits**
