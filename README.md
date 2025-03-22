@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://portfolio-shreekant.vercel.app/)
 
-- 📄 Know about my experiences - [Resume](https://app.enhancv.com/share/ae8f1e1a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 Know about my experiences - [Resume](https://app.enhancv.com/share/a1f71824/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
   
 - 🏁 Checkout this [Quotes-Api](https://rapidapi.com/shreekant74sk/api/quotes-api12)
 
