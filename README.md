@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekant-04&label=Profile%20views&color=0e75b6&style=flat" alt="shreekant-04" /> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **App Dev**
   
 - 📝 I write blogs on [Medium](https://medium.com/@shreekant04)
 
