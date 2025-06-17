@@ -45,5 +45,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shreekant-04&show_icons=true&locale=en&theme=dark&border_radius=10" alt="shreekant-04 stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekant-04&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=10" alt="shreekant-04 top languages" />
 </div>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Shreekant-04&limit=5&layout=compact&theme=dark&border_radius=10" alt="shreekant-04 contributions" />
+</div >
 
 ---
