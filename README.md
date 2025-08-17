@@ -9,7 +9,7 @@
 
 - 📫 Reach me at <a href="mailto:shreekant4062@gmail.com">shreekant4062@gmail.com</a>
 
-- 👨‍💻 All of my projects are available in my [Portfolio](https://portfolio-shreekant.vercel.app/)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://shreekant.dev)
 
 - 📄 Know about my experiences - [Resume](https://app.enhancv.com/share/a1f71824/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
   
