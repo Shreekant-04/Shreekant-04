@@ -49,8 +49,8 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Shreekant-04&limit=5&layout=compact&theme=dark&border_radius=10" alt="shreekant-04 contributions" />
 </div > -->
 <p align="center">
-  <a href="https://shreekant.dev"><img src="https://raw.githubusercontent.com/Shreekant-04/portfolio/2d54e60bd96461d3911d146e90a0ea1f25d96e16/frontend/public/og-image-home.png" width="300" style="margin-right: 20px;" /></a>
-  <a href="https://shreekant.dev"><img src="https://raw.githubusercontent.com/Shreekant-04/portfolio/2d54e60bd96461d3911d146e90a0ea1f25d96e16/frontend/public/og-image-home.png" width="300" /></a>
+  <a href="https://shreekant.dev"><img src="https://raw.githubusercontent.com/Shreekant-04/portfolio/2d54e60bd96461d3911d146e90a0ea1f25d96e16/frontend/public/og-image-home.png" width="500" style="margin-right: 20px;" /></a>
+  <a href="https://shreekant.dev"><img src="https://raw.githubusercontent.com/Shreekant-04/portfolio/2d54e60bd96461d3911d146e90a0ea1f25d96e16/frontend/public/og-image-home.png" width="500" /></a>
 </p>
 
 
