@@ -44,8 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekant-04&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=15" alt="shreekant-04 top languages" />
 </div>
 <p align="center">
-  <a href="https://shreekant.dev"><img src="https://raw.githubusercontent.com/Shreekant-04/portfolio/2d54e60bd96461d3911d146e90a0ea1f25d96e16/frontend/public/og-image-home.png" width="500" style="border-radius: 15px;" /></a>
-  <a href="https://shreekant.dev"><img src="https://raw.githubusercontent.com/Shreekant-04/portfolio/2d54e60bd96461d3911d146e90a0ea1f25d96e16/frontend/public/og-image-home.png" width="500" style="border-radius: 15px;" /></a>
+  <a href="https://shreekant.dev"><img src="https://raw.githubusercontent.com/Shreekant-04/portfolio/2d54e60bd96461d3911d146e90a0ea1f25d96e16/frontend/public/og-image-home.png" width="450" style="border-radius: 15px;" /></a>
+  <a href="https://shreekant.dev"><img src="https://github.com/Shreekant-04/Shreekant-04/blob/3d364425e182280bf17e380329ab386e979e24c6/deco-serein.png" width="450" style="border-radius: 15px;" /></a>
 </p>
 
 ---
