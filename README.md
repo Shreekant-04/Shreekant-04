@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekant-04&label=Profile%20views&color=0e75b6&style=flat" alt="shreekant-04" /> </p>
 
 - 🌱 I’m currently learning **React**
-  
 - 📝 I write blogs on [Medium](https://medium.com/@shreekant04)
 
 - 📫 Reach me at <a href="mailto:shreekant4062@gmail.com">shreekant4062@gmail.com</a>
@@ -12,7 +11,6 @@
 - 👨‍💻 All of my projects are available in my [Portfolio](https://shreekant.dev)
 
 - 📄 Know about my experiences - [Resume](https://app.enhancv.com/share/a1f71824/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
-  
 - 🏁 Checkout this [Quotes-Api](https://rapidapi.com/shreekant74sk/api/quotes-api12)
 
 <h3 align="left">Connect with me:</h3>
@@ -45,17 +43,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shreekant-04&show_icons=true&locale=en&theme=dark&border_radius=15" alt="shreekant-04 stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekant-04&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=15" alt="shreekant-04 top languages" />
 </div>
-<!-- <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Shreekant-04&limit=5&layout=compact&theme=dark&border_radius=10" alt="shreekant-04 contributions" />
-</div > -->
 <p align="center">
-  <a href="https://shreekant.dev"><img src="https://raw.githubusercontent.com/Shreekant-04/portfolio/2d54e60bd96461d3911d146e90a0ea1f25d96e16/frontend/public/og-image-home.png" width="500" style="margin-right: 20px;" /></a>
-  <a href="https://shreekant.dev"><img src="https://raw.githubusercontent.com/Shreekant-04/portfolio/2d54e60bd96461d3911d146e90a0ea1f25d96e16/frontend/public/og-image-home.png" width="500" /></a>
+  <a href="https://shreekant.dev"><img src="https://raw.githubusercontent.com/Shreekant-04/portfolio/2d54e60bd96461d3911d146e90a0ea1f25d96e16/frontend/public/og-image-home.png" width="500" style="border-radius: 15px;" /></a>
+  <a href="https://shreekant.dev"><img src="https://raw.githubusercontent.com/Shreekant-04/portfolio/2d54e60bd96461d3911d146e90a0ea1f25d96e16/frontend/public/og-image-home.png" width="500" style="border-radius: 15px;" /></a>
 </p>
-
-
-
-
-
 
 ---
