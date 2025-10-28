@@ -44,8 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekant-04&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=15" alt="shreekant-04 top languages" />
 </div>
 <p align="center">
-  <a href="https://shreekant.dev"><img src="portfolio.png" width="420" style="border-radius: 15px;" /></a>
-  <a href="https://shreekant.dev"><img src="deco-serein.png" width="420" style="border-radius: 15px;" /></a>
+  <a href="https://decoserein.com"><img src="portfolio.png" width="420" style="border-radius: 15px;" /></a>
+  <a href="https://decoserein.com"><img src="deco-serein.png" width="420" style="border-radius: 15px;" /></a>
 </p>
 
 ---
