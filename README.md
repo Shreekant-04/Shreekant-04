@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://shreekant.dev)
 
-- 📄 Know about my experiences - [Resume](https://app.enhancv.com/share/a1f71824/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 Know about my experiences - [Resume](https://shreekant.dev/resume.pdf)
 - 🏁 Checkout this [Quotes-Api](https://rapidapi.com/shreekant74sk/api/quotes-api12)
 
 <h3 align="left">Connect with me:</h3>
