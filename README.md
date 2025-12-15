@@ -45,7 +45,7 @@
 </div>
 <p align="center">
   <a href="https://shreekant.dev"><img src="portfolio.png" width="420" style="border-radius: 15px;" /></a>
-  <a href="https://decoserein.com"><img src="deco-serein.png" width="420" style="border-radius: 15px;" /></a>
+  <a href="https://decoserein.com"><img src="deco-new.png" width="420" style="border-radius: 15px;" /></a>
 </p>
 
 ---
