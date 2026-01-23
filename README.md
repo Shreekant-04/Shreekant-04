@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekant-04&label=Profile%20views&color=0e75b6&style=flat" alt="shreekant-04" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NEXT**
 - 📝 I write blogs on [Medium](https://medium.com/@shreekant04)
 
 - 📫 Reach me at <a href="mailto:shreekant4062@gmail.com">shreekant4062@gmail.com</a>
