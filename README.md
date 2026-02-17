@@ -37,12 +37,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
   <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/></a> 
 </p>
-
-<h3 align="left">Stats:</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreekant-04&show_icons=true&locale=en&theme=dark&border_radius=15" alt="shreekant-04 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekant-04&show_icons=true&locale=en&layout=compact&theme=dark&border_radius=15" alt="shreekant-04 top languages" />
-</div>
 <p align="center">
   <a href="https://shreekant.dev"><img src="portfolio.png" width="420" style="border-radius: 15px;" /></a>
   <a href="https://decoserein.com"><img src="deco-new.png" width="420" style="border-radius: 15px;" /></a>
